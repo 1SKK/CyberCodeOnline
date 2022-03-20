@@ -579,11 +579,11 @@
  	 	},
  	 	"clanOccupation": {
  	 	 	"name": {
- 	 	 	 	"trans": "加强香格里拉职业",
+ 	 	 	 	"trans": "加强对香格里拉的控制",
  	 	 	 	"eng": "Reinforce occupation at Shangri-la"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "帮助建立并强化对香格里拉市的掌控力。",
+ 	 	 	 	"trans": "帮助建立并强化对香格里拉市的控制。",
  	 	 	 	"eng": "Help reinforce and establish greater control of Shangri-la city."
  	 	 	}
  	 	},
