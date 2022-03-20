@@ -28,7 +28,7 @@
  	 	 	 	"eng": "Arasaka Unit Exchange"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "你可以在这里购买全球加成效果",
+ 	 	 	 	"trans": "你可以在这里购买全局加成效果",
  	 	 	 	"eng": "You can purchase global buff items here"
  	 	 	},
  	 	 	"canAccessError": {
@@ -290,7 +290,7 @@
  	 	 	 	 	"eng": "Go to Hyper Train Central Station"
  	 	 	 	},
  	 	 	 	"tut": {
- 	 	 	 	 	"trans": "在这里开始你史诗般的冒险旅程",
+ 	 	 	 	 	"trans": "在这里开始你的史诗装备寻获之旅",
  	 	 	 	 	"eng": "Start your adventure for epic loot here"
  	 	 	 	},
  	 	 	 	"description": {
@@ -304,7 +304,7 @@
  	 	 	 	 	"eng": "Go to Shangri-La Commercial Area"
  	 	 	 	},
  	 	 	 	"tut": {
- 	 	 	 	 	"trans": "你可以在这里通过完成线下工作来提升你的各项技能",
+ 	 	 	 	 	"trans": "你可以在这里完成离线差事以提升各项技能",
  	 	 	 	 	"eng": "You can complete AFK jobs to increase your skills here"
  	 	 	 	}
  	 	 	},
@@ -331,7 +331,7 @@
  	 	 	 	"eng": "Shangri-La Commercial Area"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[工作中心]\r\n        这里有许多商店与各种生意，是一个展现你各项技能的完美的地方，同时你可以在工作中学习，以提升你的等级。",
+ 	 	 	 	"trans": "[工作中心]\r\n        这里有多种商店和不同生意，是一个展现你各项技能的完美的地方，同时你可以在工作中学习，以提升你的等级。",
  	 	 	 	"eng": "[Job Hub]\r\n        Here are many shops and businesses reside. The perfect location to hone and refine your skills."
  	 	 	},
  	 	 	"toMainHub": {
@@ -489,11 +489,11 @@
  	 	},
  	 	"increaseMedical": {
  	 	 	"name": {
- 	 	 	 	"trans": "黑入一个人体改造诊所",
+ 	 	 	 	"trans": "黑入一间人体改造诊所",
  	 	 	 	"eng": "Hack a Body Mod Clinic"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "窃取并下载诊所资料库里的珍贵信息, 这可以提升你的医学研究等级, 允许您制造更高质量的医疗机器人。",
+ 	 	 	 	"trans": "窃取并下载诊所资料库里的珍贵信息, 这可以提升你的医学研究等级, 允许你制造更高质量的医疗机器人。",
  	 	 	 	"eng": "Download useful data from a local body mod clinic to craft higher quality medical bots and drones."
  	 	 	}
  	 	},
@@ -503,7 +503,7 @@
  	 	 	 	"eng": "Improve Ammunition"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "通过打造与制作各种弹药, 寻找更加高效的制弹方法, 以此提高你的弹药制作等级。",
+ 	 	 	 	"trans": "通过打造各种弹药, 寻找更加高效的制弹方法, 借此提高你的弹药制作等级。",
  	 	 	 	"eng": "Tinker with ammunition, to find more effective ways of crafting it."
  	 	 	}
  	 	},
@@ -533,11 +533,11 @@
  	 	 	 	"eng": "Deploy farm bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[线下经验获取]\r\n        部署AI核心来自动探索地下城, 这将消耗一个AI核心, 它们通常只能完成一次探索。",
+ 	 	 	 	"trans": "[离线经验获取]\r\n        部署AI核心来自动探索地下城, 这将消耗一个AI核心, 它们通常只能完成一次探索。",
  	 	 	 	"eng": "[AFK Exp Farm]\r\n        Deploys an AI to dungeon for you. This will use up an AI Core, they usually only just manage the one trip."
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "可以消耗你的AI核心在下线之后继续清理敌人",
+ 	 	 	 	"trans": "可以消耗你的AI核心在离线之后继续清理敌人",
  	 	 	 	"eng": "You can use your AI Core to Auto-Farm enemies while you AFK"
  	 	 	}
  	 	},
@@ -589,7 +589,7 @@
  	 	},
  	 	"gambling1": {
  	 	 	"name": {
- 	 	 	 	"trans": "玩 Mega Pachinko 游戏",
+ 	 	 	 	"trans": "玩 MEGA Pachinko 游戏",
  	 	 	 	"eng": "Play MEGA Pachinko Game"
  	 	 	},
  	 	 	"description": {
@@ -603,7 +603,7 @@
  	 	 	 	"eng": "Collect Protection Fees"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "贿赂政府官员和SLPD，并从香格里拉的商人和公民收取保护费。 也许你会从中获得一些史诗般的物品？ （顶级两个公会独家）",
+ 	 	 	 	"trans": "贿赂政府官员和SLPD，以便向香格里拉的商人和市民收取保护费。 也许你会从中获得一些史诗般的物品？ （排名前二公会专享）",
  	 	 	 	"eng": "Bribe government officials and the SLPD to collect protection fees from business owners and citizens in Shangri-La. Maybe you’ll get some EPIC items from them? (Exclusive to the Top 2 Gangs on the Occupation Leaderboard"
  	 	 	}
  	 	},
@@ -645,13 +645,13 @@
  	 	},
  	 	"legendary": {
  	 	 	"name": {
- 	 	 	 	"trans": "传奇的",
+ 	 	 	 	"trans": "传奇",
  	 	 	 	"eng": "legendary"
  	 	 	}
  	 	},
  	 	"epic": {
  	 	 	"name": {
- 	 	 	 	"trans": "史诗的",
+ 	 	 	 	"trans": "史诗",
  	 	 	 	"eng": "epic"
  	 	 	}
  	 	}
@@ -669,7 +669,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"levelName"
  	 	 	 	],
- 	 	 	 	"trans": "一个承载了某个他人的记忆与经验的碎片, 使用后你将会获得其中关于${levelName}的Exp(经验点)",
+ 	 	 	 	"trans": "一个承载了某人记忆与经验的碎片, 使用后你将会获得其中关于${levelName}的Exp(经验点)",
  	 	 	 	"eng": "A shard that contains someone's memory and experience. If used you may gain ${levelName} experience from this"
  	 	 	}
  	 	},
@@ -696,14 +696,14 @@
  	 	 	 	 	"tierName",
  	 	 	 	 	"typeName"
  	 	 	 	],
- 	 	 	 	"trans": "${tierName}${typeName}缓存体",
+ 	 	 	 	"trans": "${tierName}${typeName}缓存单元",
  	 	 	 	"eng": "${tierName} ${typeName} cache"
  	 	 	},
  	 	 	"description": {
  	 	 	 	"vars": [
  	 	 	 	 	"typeName"
  	 	 	 	],
- 	 	 	 	"trans": "一个含有${typeName}信息的分子印刷机缓存, \r\n                    可以去市中心使用3D分子印刷机来使用它打印一个${typeName}\r\n                    \r\n                    来自前人的建议：合成装备的等级将取决于你印刷等级的高低,\r\n                    所以最好先使用低等级的缓存体, 因为合成它们需要更少的比特币并且对提升你的印刷等级有帮助",
+ 	 	 	 	"trans": "一个含有${typeName}信息的分子印刷机缓存单元, \r\n                    可以去市中心使用3D分子印刷机来使用它打印一个${typeName}\r\n                    \r\n                    来自前人的建议：合成装备的等级将取决于你印刷等级的高低,\r\n                    所以最好先使用低等级的缓存体, 因为合成它们需要更少的比特币并且对提升你的印刷等级有帮助",
  	 	 	 	"eng": "A ${typeName} cache contains information used for Molecular 3D Printing, \r\n                    You can create a ${typeName} with the [Molecular 3d Printer] at [Central Hub].\r\n                    \r\n                    Pro tip: The level of item you get from printing is determined by your Printing Rank,\r\n                    so always print the trash ones first, as they cost less and useful to level up your Printing Rank"
  	 	 	}
  	 	},
@@ -913,7 +913,7 @@
  	 	 	 	"eng": "Experience Memory"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "内含某个单位记忆的存储体，融合后你会获得其中的Exp(经验点)",
+ 	 	 	 	"trans": "内含某人记忆的存储体，融合后你会获得其中的Exp(经验点)",
  	 	 	 	"eng": "Memory bank contains someone's memory. If used you may gain experience from this"
  	 	 	}
  	 	},
@@ -923,7 +923,7 @@
  	 	 	 	"eng": "Hash Processor"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "一个有效的比特币挖取硬件, \r\n        可惜超频的使用会让其很容易烧毁,\r\n        可以在[工作中心]消耗它来获取比特币",
+ 	 	 	 	"trans": "一个有效的比特币挖取硬件, \r\n        可惜超频会让其很容易烧毁,\r\n        可以在[工作中心]消耗它来获取比特币",
  	 	 	 	"eng": "Can be used as a dedicated hardware for BitCoin mining, \r\n        however due to overclocking, the processor is easily burntout,\r\n        You may use this to mine BitCoin at [JOB HUB]"
  	 	 	}
  	 	},
